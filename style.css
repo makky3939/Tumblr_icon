@@ -1,0 +1,12 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+nav{
+	position:fixed;
+	top:0px;
+	left:0px;
+	border:1px solid #ececec;
+	width:100%;
+}
